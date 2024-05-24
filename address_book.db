@@ -1,0 +1,9 @@
+SQLite format 3@  
+
+._�%�P++Ytablesqlite_sequencesqlite_sequenceCREATE TABLE sqlite_sequence(name,seq)�X�tablecontactscontactsCREATE TABLE contacts (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            first_name TEXT,
+            last_name TEXT,
+            email TEXT,
+            phone TEXT
+        )	����qS5��	!sanaamjad2873828797%SanaAmjad111-222-1223%Sana Amjad287-829-8272%Sana Amjad728-382-8272!%Sana Amjad238-287-29873=%SanaAmjadsana.amjad03@outlook.com123-567-8910SanaAmjadmmss3=%SanaAmjadsana.amjad03@outlook.com201-615-4855Afhhh444��contacts
