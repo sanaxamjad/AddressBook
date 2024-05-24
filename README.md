@@ -1,4 +1,4 @@
-# INST326 Final Project: Contact / Address Book Application
+Contact / Address Book Application
 
 ## Description
 I developed a Contact / Address Book Application to centralize my contact information in one accessible database. This application streamlines contact management by providing a unified platform for storing, viewing, editing, and deleting contacts. It eliminates the hassle of navigating through multiple sources such as email, phone contacts, and social media to find contact details.
